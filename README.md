@@ -12,6 +12,9 @@ Narrow: An ImageNet model is good at predicting the 1000 ImageNet categories, bu
 
 
 ![image](https://user-images.githubusercontent.com/87066472/196043721-a4256966-53e2-4b40-9e96-45c0903c8b32.png)
+![image](https://user-images.githubusercontent.com/87066472/196044195-e3569b44-5727-4ab3-ab1b-fbaadfe63b27.png)
+![image](https://user-images.githubusercontent.com/87066472/196044205-7eadd054-b5f6-42d3-8450-b3b1954b9d25.png)
+
 
 
 How I improved CLIP Perfomance
